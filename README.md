@@ -1,6 +1,5 @@
 # LuxVol
-Tis a simple andorid app that call the default system brightness and volume panel.
-I'm not an android dev so i've done it at my best considering that i didn't found any valid alternative on the play store.
+Tis a simple andorid app that call in overlap the default system brightness and volume panel, very useful when you're watching videos or play videogames.
 
 ## build apk with Buildozer
 buildozer init

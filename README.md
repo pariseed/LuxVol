@@ -1,5 +1,6 @@
 # LuxVol
-Tis a simple andorid app that call in overlap the default system brightness and volume panel, very useful when you're watching videos or play videogames.
+This is a simple Android app that overlays the default system brightness and volume panels. It's very useful when you're watching videos or playing video games.
+You can find the APK available in the releases section
 
 ## build apk with Buildozer
 ```
